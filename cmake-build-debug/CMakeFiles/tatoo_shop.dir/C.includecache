@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/antoniopisanello/Documents/Developpement/Programation/C/HEPIA/2e/IT_291-Programmation_concurrente/TP/tatoo_shop/main.c
+stdio.h
+-
+stdlib.h
+-
+pthread.h
+-
+assert.h
+-
+ntsid.h
+-
+main_functions.h
+/Users/antoniopisanello/Documents/Developpement/Programation/C/HEPIA/2e/IT_291-Programmation_concurrente/TP/tatoo_shop/main_functions.h
+thread_wrapper.h
+/Users/antoniopisanello/Documents/Developpement/Programation/C/HEPIA/2e/IT_291-Programmation_concurrente/TP/tatoo_shop/thread_wrapper.h
+
+/Users/antoniopisanello/Documents/Developpement/Programation/C/HEPIA/2e/IT_291-Programmation_concurrente/TP/tatoo_shop/main_functions.h
+semaphore.h
+-
+
+/Users/antoniopisanello/Documents/Developpement/Programation/C/HEPIA/2e/IT_291-Programmation_concurrente/TP/tatoo_shop/thread_wrapper.h
+pthread.h
+-
+
